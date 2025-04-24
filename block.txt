@@ -1,0 +1,3 @@
+[BlockAll]
+! Title: Block All Domains
+||.*
